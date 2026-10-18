@@ -10,7 +10,7 @@ this project was made with Fusion 360 though any CAD software will work. I began
 
 Here is the cross section (the spring should be in place):
 
-![crosssectionimage](https://github.com/manula5454/Mecha-Pencil3x/blob/2d3a204d7357f388537cfe5c2894a4d74cb4adff/MechaPencil%20Photos/MechaPencilPic1.png)
+![crosssectionimage]([https://github.com/manula5454/Mecha-Pencil3x/blob/2d3a204d7357f388537cfe5c2894a4d74cb4adff/MechaPencil%20Photos/MechaPencilPic1.png](https://github.com/manula5454/Mecha-Pencil3x/blob/2bf73f7f347011233d7ea6f786740dc1c67d8c01/MechaPencil%20Photos/MechPencilinsideedited.png))
 
 ## heres how to print it out:
 
@@ -22,7 +22,7 @@ Some parts might need to be superglued.
 
 What printing might look like (really old printer selected):
 
-![prusaslicerimage](MechaPencil Photos/prusaslicermechapencil.png)
+![prusaslicerimage](https://github.com/manula5454/Mecha-Pencil3x/blob/2bf73f7f347011233d7ea6f786740dc1c67d8c01/MechaPencil%20Photos/prusaslicermechapencil.png)
 
 
 
