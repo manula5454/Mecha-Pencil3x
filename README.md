@@ -10,7 +10,7 @@ this project was made with Fusion 360 though any CAD software will work. I began
 
 Here is the cross section (the spring should be in place):
 
-![crosssectionimage](https://github.com/manula5454/Mecha-Pencil3x/blob/2bf73f7f347011233d7ea6f786740dc1c67d8c01/MechaPencil%20Photos/MechPencilinsideedited.png)
+![crosssectionimage](https://github.com/manula5454/Mecha-Pencil3x/blob/d77ea4f3692db4a9329b11b4de721677c4d5818a/MechaPencil%20Photos/crosssectionpencil.png)
 
 ## heres how to print it out:
 
