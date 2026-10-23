@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv65sssc0m3z01n0jtllg89e). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A CAD modelled traditional mechanical pencil with my own twists
+> A CAD modelled traditional mechanical pencil with my own twists. It's scaled to 3D print. p.s. if your a half life reviewer, I don't have a 3D printer so was I meant to include print credits in the BOM for week 7? I was really confused about that.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
